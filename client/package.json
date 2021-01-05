@@ -8,7 +8,7 @@
     "build:watch": "vue-cli-service build --watch --dest ../server/www"
   },
   "dependencies": {
-    "axios": "^0.19.2",
+    "axios": "^0.21.1",
     "core-js": "^3.6.4",
     "vue": "^2.6.11",
     "vue-router": "^3.1.5",
